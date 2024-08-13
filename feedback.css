@@ -1,0 +1,209 @@
+/* .size-6
+{
+    height: 4rem;
+    size: 4rem;
+}
+
+
+
+
+button
+{
+    background-color: greenyellow;
+    color: white;
+    font-size: 15px;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 15px;
+    margin-bottom: 0.5rem;
+    border: 1px solid greenyellow;
+}
+
+
+
+h1
+{
+    color: red;
+}
+
+h2
+{
+    color: blue;
+}
+
+
+.feedback-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 6rem ;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border: 2px solid red;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px 10px lightblue;
+    position: relative;
+    display: none;
+}
+
+
+.star-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+#textarea
+{
+    border-radius: 7px;
+    font-weight: 800;
+}
+
+
+
+#thumbsup
+{
+    height: 2rem;
+    width: 2rem;
+}
+
+
+.popover-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 275px;
+    max-height: 275px;
+    border: 2px solid green;
+    box-shadow: 0px 0px 10px 10px lightcoral;
+    border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    
+}
+
+
+.thumbsup-container
+{
+    height: 2rem;
+    width: 2rem;
+    background-color: D1E9F6;
+}
+
+
+
+#ok
+{
+    background-color: blue;
+    color: white;
+    font: 10px;
+    border-radius: 15px;
+}
+
+
+#ok:hover
+{
+    background-color: rgb(162, 162, 176);
+} */
+
+
+
+
+
+
+.size-6 {
+    height: 4rem;
+    width: 4rem;
+}
+
+button {
+    background-color: greenyellow;
+    color: white;
+    font-size: 15px;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 15px;
+    margin-bottom: 0.5rem;
+    border: 1px solid greenyellow;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.feedback-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 6rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border: 2px solid red;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px 10px lightblue;
+    position: relative;
+}
+
+.star-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#textarea {
+    border-radius: 7px;
+    font-weight: 800;
+}
+
+#thumbsup {
+    height: 2rem;
+    width: 2rem;
+}
+
+.popover-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     width: 330px;
+     height: 330px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+   
+    border: 2px solid green;
+    box-shadow: 0px 0px 10px 10px lightcoral;
+    border-radius: 20px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    
+}
+
+.thumbsup-container {
+    height: 2rem;
+    width: 2rem;
+    background-color: #D1E9F6;
+}
+
+#ok {
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+#ok:hover {
+    background-color: rgb(162, 162, 176);
+}
